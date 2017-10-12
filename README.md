@@ -1,4 +1,4 @@
-# Book of Business
+## Part One
 
 * [home](https://annagaiel.github.io/Book/Home.html)
 * [task](https://annagaiel.github.io/Book/Task.html)
@@ -13,8 +13,8 @@
 * [home month event](https://annagaiel.github.io/Book/HomeCalendarMonth.html)
 * [home week event](https://annagaiel.github.io/Book/HomeCalendarWeek.html)
 * [activities tab](https://annagaiel.github.io/Book/ActivitiesTab.html)
-* [Bank Note dialog](https://annagaiel.github.io/Book/BankNotedialog.html)
-* [New Event without Customer](https://annagaiel.github.io/NewEventWithoutCustomer.html)
+* [Bank Note dialog](https://annagaiel.github.io/Book/BankNoteDialog.html)
+* [New Event without Customer](https://annagaiel.github.io/Book/NewEventWithoutCustomer.html)
 * [Event detail](https://annagaiel.github.io/Book/EventsDetail.html)
 * [filter customer details](https://annagaiel.github.io/Book/FilterCustomerDetails.html)
 * [Navigate from this page](https://annagaiel.github.io/Book/NavigateFromThisPage.html)
